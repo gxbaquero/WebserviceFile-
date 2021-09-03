@@ -1,2 +1,2 @@
-# WebserviceFile-
+# WebserviceFile-php
 Webservice muy básico en PHP que lee/escribe un archivo en json
